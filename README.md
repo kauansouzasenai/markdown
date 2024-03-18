@@ -3,8 +3,12 @@ Kauan Vitor De Souza
 # GMAIL
 kauanbbbaria@gmail.coM
 # Curso Técnico
-Desenvolvimento de Sistemas
-# LOCAL
-Nova Odessa
-# Escola
-Sesi 436
+
+>***Curso Técnico***
+:Desenvolvimento de Sistemas
+
+>***Cidade***
+:Nova Odessa
+
+>***Escola***
+:Sesi 436
